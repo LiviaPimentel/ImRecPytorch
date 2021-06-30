@@ -1,2 +1,2 @@
-# ImRecPytorch
-Projets related to image recognition using Pytorch
+# Image Recognition Pytorch
+Projets related to Image Recognition using Pytorch
